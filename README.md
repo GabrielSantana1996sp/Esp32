@@ -1,2 +1,4 @@
-cd ~/esp/esp-idf
-. ./export.sh
+# cd ~/esp/esp-idf
+# . ./export.sh
+# ~/esp/EspLedC$ 
+#idf.py build
